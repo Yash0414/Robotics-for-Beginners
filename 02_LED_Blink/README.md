@@ -35,7 +35,7 @@ This process is called blinking.
 | GND         | LED Negative (-) through resistor |
 
 ---
-
+![Wiring Diagram](images/wiring_diagram.png)
 ## Arduino Code
 
 ```cpp
