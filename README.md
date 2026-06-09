@@ -6,8 +6,8 @@ A structured robotics learning repository designed for students starting their j
 
 ### Level 01 - Fundamentals
 
-* [ ] Lesson 01 - Arduino Introduction
-* [ ] Lesson 02 - LED Blink
+* [ ] Lesson 01 - Arduino Introduction (01_Arduino_Introduction)
+* [ ] Lesson 02 - LED Blink (02_LED_Blink)
 * [ ] Lesson 03 - Button Input
 * [ ] Lesson 04 - Buzzer
 * [ ] Lesson 05 - Servo Motor
