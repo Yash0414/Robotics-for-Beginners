@@ -44,7 +44,7 @@ This introduces the concept of digital input.
 | GND         | LED Negative (-) |
 
 ---
-
+![Wiring Diagram](images/wiring_diagram.png)
 ## Arduino Code
 
 ```cpp
